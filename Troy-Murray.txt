@@ -1,4 +1,4 @@
-link to finished codepen https://github.com/citiovtroy/Git-for-Web-Development-Project.git
+link to finished codepen https://codepen.io/citiovtroy/pen/mdPBbwB
 
     1. What is Semantic HTML? 
     html that gives meaning to markup
